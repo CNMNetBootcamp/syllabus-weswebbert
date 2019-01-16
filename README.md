@@ -1,10 +1,8 @@
-# Cohort 8 Course Information #
+# Cohort 9 Course Information #
 
 ## Class Name:	Microsoft .NET Web Development Fundamentals ##
 ## Class Days & Times:  ##  
-Monday through Thursday: 6 PM - 9 PM Weeks 1-10 
-## Lab Days: ##
-8 AM to Noon Saturdays starting week 5 ## 
+Monday through Thursday: 6 PM - 9:30 PM Weeks 1-10 
 ## Class Location ##
 CNM STEMulus Center
 20 1st Plaza Center NW
